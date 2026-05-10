@@ -1,1 +1,1 @@
-# Analytics of e-commerce data
+# Sales Funnel Analysis
